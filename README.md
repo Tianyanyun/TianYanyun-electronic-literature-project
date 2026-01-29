@@ -6,7 +6,7 @@
 4. Lastly, I strive to find diverse electronic literature as much as possible, including comics, interactive fiction, digital poetry, etc.
 
 # my data model 
-My data model has 16 columns, it includes the electronic literature's bibliographic information and digital-specific characteristics. for example, the title, author, type, technology, interaction_level, preservation_status and license, etc.
+My data model has 16 columns, it includes the electronic literature's bibliographic information and digital-specific characteristics. Specifically, it has ID, title, author, year, type, access_data, URL, technology, interaction_level, textuality, versioning, language, metadata_source, preservation_status,  license and one_sentence_description.
 Because they are born-digital literary works, texts that depend on the capabilities and context of a computer (stand-alone or network). Sometimes we may face data loss, and a version change condition, we need to record more detailed information relevant to the digital.
 
 # known limitations/biases 
